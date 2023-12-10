@@ -1,0 +1,17 @@
+On School.
+
+1.Print RAHUL PAL using Python using Nested loop Concepts on class 11.
+2.Make a private data saving data using C++ and File Handling Cocepts.
+
+On College.
+1.JOIN2CODE (ON 2nd year Of College) using PHP,Apache,HTML5,CSS,JS.
+2.Student Management System Using Python and Machine Learing Tech Stack, on (3rd Year)
+3.Sentiment Anaylysis using Machine Learing and Python. Final Year Project Can sense speech of user and can check sentiment.
+
+On Job
+
+1.Grocery Store System Using ASP.net, Entity Framework, Design Pattern, SOLID Princples, C#, MVC. And Angular as Front End.
+2.The Weekend Ride using ASP.net, Entity Framework, Design Pattern, SOLID Princples, C#, MVC. And Angular as Front End SOLID Princples, ORM , JWT Bearer Angualr Guard.
+3.Book Hub using ASP.net, Entity Framework, Design Pattern, SOLID Princples, C#, MVC. And Angular as Front End SOLID Princples, ORM , JWT Bearer Angualr Guard.
+4.Student Management System usign Node for BackEnd and View Enginer as Front End.
+5. Resumt Management System using Pure React for Front end as well as backend use context API and Redux for BackEnd.
